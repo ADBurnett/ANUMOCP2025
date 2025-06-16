@@ -14,7 +14,7 @@ A link to the registration site can now be found [here](https://store.leeds.ac.u
 
 # Schedule
 
-Thanks for all those who have contacted me abouting giving talks. You can now find the schedule [here]("assets/img/33rd Annual Northern Universities Meeting On Chemical Physics - Schedule.pdf")
+Thanks for all those who have contacted me abouting giving talks. You can now find the schedule [here]("/assets/img/33rd Annual Northern Universities Meeting On Chemical Physics - Schedule.pdf")
 
 # Directions
 
